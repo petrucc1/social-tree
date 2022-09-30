@@ -52,9 +52,4 @@ p {
 .social-networks {
   display: flex;
   justify-content: space-around;
-  transition: 1s;
-}
-
-.social-networks:hover {
-  color: #E8B2B3;
 }/*# sourceMappingURL=main.css.map */
