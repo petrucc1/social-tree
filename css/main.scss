@@ -2,6 +2,10 @@ $font-primary: 'Poppins', sans-serif;
 $body-bg-color: #FAF7FD;
 $purple: #BB99DD;
 
+* {
+  text-align: center;
+}
+
 body {
     display: flex;
     justify-content: center;
